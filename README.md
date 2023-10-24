@@ -7,7 +7,7 @@
 
 ## Background
 
-The objective of this project is to demonstrate an understanding and the ability to create:
+The objective of this project is to demonstrate an understanding of and the ability to create:
 
 * Docker based containerization.
 * Docker virtual networks.
