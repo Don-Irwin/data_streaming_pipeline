@@ -1,4 +1,7 @@
 <!-- vscode-markdown-toc -->
+
+# Data Streaming Pipeline Demonstration   
+
 * 1. [Background:](#Background)
 * 2. [Limitations](#Limitations)
 * 3. [Pre-Requeisites](#Pre-Requeisites)
@@ -9,7 +12,7 @@
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-# Data Streaming Pipeline Demonstration   
+
 
 ![Image Alt Text](artifacts/images/streaming_visualization.jpg)
 
