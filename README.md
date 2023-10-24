@@ -2,6 +2,7 @@
 # Data Streaming Pipeline Demonstration System
 
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
+- [Data Streaming Pipeline Demonstration System](#data-streaming-pipeline-demonstration-system)
   - [Visual Overview](#visual-overview)
   - [Background](#background)
   - [Limitations](#limitations)
@@ -12,6 +13,7 @@
     - [Open Open the Created Jyputer Notebook](#open-open-the-created-jyputer-notebook)
     - [Observe The Console](#observe-the-console)
     - [Explore the Images and Bash Files](#explore-the-images-and-bash-files)
+  - [Additional Implementation Details](#additional-implementation-details)
 
 <!-- /TOC -->
 
@@ -148,7 +150,7 @@ docker-compose exec presto bash
 
 ![Visual Overview](artifacts/images/bash_to_server.png)
 
-### Additional Implementation Details
+## Additional Implementation Details
 
 For deep details view the files `technical_demo.ipynb` or `technical_demo.md` in order to see how each component fits together.
 
