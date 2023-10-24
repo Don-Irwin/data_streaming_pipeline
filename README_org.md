@@ -1,11 +1,9 @@
+
 # Data Streaming Pipeline Demonstration   
 
+![Image Alt Text](artifacts/images/streaming_visualization.jpg)
 
-## Visual Overview
-
-![Visual Overview](artifacts/images/streaming_visualization.jpg)
-
-## Background
+## Background:
 
 The objective of this project is to demonstrate an understanding and the ability to create:
 
@@ -27,10 +25,6 @@ The objective of this project is to demonstrate an understanding and the ability
 ## Limitations
 
 This will not work on an ARM / M1 / M2 box as the images are for the X86 architecture.
-
-## Cautions
-
-The first time this project is run, depending on your internet connection, it could take some time to download the initial docker images required by the system.
 
 ## Pre-Requeisites
 
