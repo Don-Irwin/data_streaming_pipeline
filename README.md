@@ -106,3 +106,23 @@ After every 500 synthetic event generations, the console will query Presto table
 
 ![Bash Output](artifacts/images/example_of_bash_output.png)
 
+### Explore the Images and Bash Files
+
+There are six separate server containers in this solution, they may all be explored different ways.
+
+* Explore via bash files:
+
+There are a number of bash files in the directory which query the servers.
+
+```
+ls *.sh
+```
+
+* Explore the Docker Images Directly:
+
+To get onto a specific docker image.  The command below executes the bash command against the "presto" server within docker / docker-compose.
+
+```
+docker-compose exec presto bash
+```
+
