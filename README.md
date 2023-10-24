@@ -148,3 +148,5 @@ docker-compose exec presto bash
 
 ![Visual Overview](artifacts/images/bash_to_server.png)
 
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
