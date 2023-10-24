@@ -1,5 +1,5 @@
 <!-- vscode-markdown-toc -->
-* 1. [Background:](#Background:)
+* 1. [Background:](#Background)
 * 2. [Limitations](#Limitations)
 * 3. [Pre-Requeisites](#Pre-Requeisites)
 * 4. [Running The Project Out of the Gate](#RunningTheProjectOutoftheGate)
@@ -13,7 +13,7 @@
 
 ![Image Alt Text](artifacts/images/streaming_visualization.jpg)
 
-##  1. <a name='Background:'></a>Background:
+##  1. <a name='Background'></a>Background
 
 The objective of this project is to demonstrate an understanding and the ability to create:
 
