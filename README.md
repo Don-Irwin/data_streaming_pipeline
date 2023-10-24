@@ -148,5 +148,11 @@ docker-compose exec presto bash
 
 ![Visual Overview](artifacts/images/bash_to_server.png)
 
+### Additional Implementation Details
+
+For deep details view the files `technical_demo.ipynb` or `technical_demo.md` in order to see how each component fits together.
+
+Finally, here is a video of a predecessor of this project, which can be viewed by pressing Ctrl+Click on the link below.
 
 '<a href="https://www.youtube.com/watch?v=TpS3rIrctBo" target="https://youtu.be/Mgce9pA9ASc"> <img src="https://tuneman7.github.io/video.png" border=0, width="40%">    </a>'
+
