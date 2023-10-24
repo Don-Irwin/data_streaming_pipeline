@@ -126,9 +126,11 @@ After every 500 synthetic event generations, the console will query Presto table
 
 ### Explore the Images and Bash Files
 
-![Visual Overview](artifacts/images/docker_network.png)
+
 
 There are six separate server containers in this solution, they may all be explored different ways.
+
+![Visual Overview](artifacts/images/docker_network.png)
 
 * Explore via bash files:
 
@@ -146,3 +148,4 @@ To get onto a specific docker image.  The command below executes the bash comman
 docker-compose exec presto bash
 ```
 
+![Visual Overview](artifacts/images/bash_to_server.png)
