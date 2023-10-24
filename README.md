@@ -27,6 +27,7 @@
 
 The objective of this project is to demonstrate an understanding of and the ability to create:
 
+* Infrastructure as code.
 * Docker based containerization.
 * Docker virtual networks.
 * API endpoints (Python Flask in this case).
@@ -149,3 +150,4 @@ docker-compose exec presto bash
 ```
 
 ![Visual Overview](artifacts/images/bash_to_server.png)
+
