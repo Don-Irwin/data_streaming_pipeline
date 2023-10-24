@@ -70,3 +70,39 @@ cd ./data_streaming_pipeline/
 . run.sh
 ```
 
+## Viewing System Activity and Output
+
+There are many ways to view system activity and output.  
+
+We will demostrate a few:
+
+### Open Open the Created Jyputer Notebook
+
+Once the system is running the jupyter notebook will be exposed on the system.
+
+* Open the notebook
+
+It can be accessed (if running locally) by the following command.
+
+http://localhost:5555/notebooks/system_demo.ipynb
+
+Or if it is being run on a separate server, run the following command.
+
+http://[IP-ADDRESS-OF-SERVER]:5555/notebooks/system_demo.ipynb
+
+* Run all cells.
+
+![Bash Output](artifacts/images/run_all.png)
+
+* View output.
+
+![Bash Output](artifacts/images/view_output.png)
+
+### Observe The Console
+
+As the system is running it will continue to generate synthetic streaming events, which are pseristed to sql tables.
+
+After every 500 synthetic event generations, the console will query Presto tables and 
+
+![Bash Output](artifacts/images/example_of_bash_output.png)
+
