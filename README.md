@@ -1,6 +1,6 @@
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
 
-- [Data Streaming Pipeline Demonstration](#data-streaming-pipeline-demonstration)
+- [Data Streaming Pipeline Demonstration System](#data-streaming-pipeline-demonstration-system)
   - [Visual Overview](#visual-overview)
   - [Background](#background)
   - [Limitations](#limitations)
@@ -15,7 +15,7 @@
 <!-- /TOC -->
 
 
-# Data Streaming Pipeline Demonstration   
+# Data Streaming Pipeline Demonstration System
 
 
 
@@ -125,6 +125,8 @@ After every 500 synthetic event generations, the console will query Presto table
 ![Bash Output](artifacts/images/example_of_bash_output.png)
 
 ### Explore the Images and Bash Files
+
+![Visual Overview](artifacts/images/docker_network.png)
 
 There are six separate server containers in this solution, they may all be explored different ways.
 
