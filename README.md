@@ -1,4 +1,22 @@
+<!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
+
+- [Data Streaming Pipeline Demonstration](#data-streaming-pipeline-demonstration)
+  - [Visual Overview](#visual-overview)
+  - [Background](#background)
+  - [Limitations](#limitations)
+  - [Cautions](#cautions)
+  - [Pre-Requeisites](#pre-requeisites)
+  - [Running The Project Out of the Gate](#running-the-project-out-of-the-gate)
+  - [Viewing System Activity and Output](#viewing-system-activity-and-output)
+    - [Open Open the Created Jyputer Notebook](#open-open-the-created-jyputer-notebook)
+    - [Observe The Console](#observe-the-console)
+    - [Explore the Images and Bash Files](#explore-the-images-and-bash-files)
+
+<!-- /TOC -->
+
+
 # Data Streaming Pipeline Demonstration   
+
 
 
 ## Visual Overview
