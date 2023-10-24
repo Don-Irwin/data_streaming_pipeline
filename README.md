@@ -45,7 +45,7 @@ apt update && apt install docker -y && apt install docker-compose -y && apt inst
 If you are on a machine which has all appropriate pre-requisites installed, the following command will begin the pipeline.
 
 ```
-git clone https://github.com/Don-Irwin/data_streaming_pipeline && . run.sh
+git clone https://github.com/Don-Irwin/data_streaming_pipeline && cd /data_streaming_pipeline && . run.sh
 ```
 
 Alternatively -- you can execute each of the commands independently.
