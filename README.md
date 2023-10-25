@@ -65,7 +65,7 @@ sudo su
 apt update && apt install docker -y && apt install docker-compose -y && apt install git -y && apt install python-is-python3 -y
 ```
 
-## Running The Project Out of the Gate
+## Running the System Out of the Gate
 
 If you are on a machine which has all appropriate pre-requisites installed, the following command will begin the pipeline.
 
