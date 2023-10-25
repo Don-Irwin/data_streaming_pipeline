@@ -100,11 +100,11 @@ Once the system is running the jupyter notebook will be exposed on the system.
 
 * Open the notebook
 
-It can be accessed (if running locally) by the following command.
+It can be accessed (if running locally) at the following address.
 
 http://localhost:5555/notebooks/system_demo.ipynb
 
-Or if it is being run on a separate server, run the following command.
+Or if it is being run on a separate server, use the following address.
 
 http://[IP-ADDRESS-OF-SERVER]:5555/notebooks/system_demo.ipynb
 
@@ -120,7 +120,7 @@ http://[IP-ADDRESS-OF-SERVER]:5555/notebooks/system_demo.ipynb
 
 As the system is running it will continue to generate synthetic streaming events, which are pseristed to sql tables.
 
-After every 500 synthetic event generations, the console will query Presto tables and 
+After every 500 synthetic event generations, the console will query Presto tables and display information.
 
 ![Bash Output](artifacts/images/example_of_bash_output.png)
 
