@@ -37,7 +37,6 @@ docker-compose exec -T cloudera hive -f /w205/hive_table_creation.hql
 
 docker-compose exec cloudera hadoop fs -ls /tmp/
 
-google-chrome "http://127.0.0.1:8027/notebooks/system_demo.ipynb" &
 
 #echo "Run primative event pitcher/generator primative_event_pitcher.py"
 echo "python primative_event_pitcher_ab.py>/dev/null"
