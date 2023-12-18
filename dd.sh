@@ -34,10 +34,9 @@ docker-compose exec -T spark spark-submit /w205/separate_events_stream_2.py &
 echo "docker-compose exec -T cloudera hive -f /w205/hive_table_creation.hql"
 docker-compose exec -T cloudera hive -f /w205/hive_table_creation.hql 
 
-
 docker-compose exec cloudera hadoop fs -ls /tmp/
 
-google-chrome "http://127.0.0.1:5555/notebooks/system_demo.ipynb" &
+google-chrome "http://localhost:5555/notebooks/system_demo.ipynb" &
 
 #echo "Run primative event pitcher/generator primative_event_pitcher.py"
 echo "python primative_event_pitcher_ab.py>/dev/null"
